@@ -1,0 +1,4 @@
+# PredictiveLeadScoring
+
+
+Exported the Sales Data from HQ for doing the POC. Spend hours combing through the data we had. Started with 54 observations and narrowed down to 14 observations that were found useful after data visualisation, preprocessing and feature selection. Unfortunately so many of the columns had null values hence could not be used. I was able to create two models with the selected observations. The model developed using a Naive Baye's Classifier has an accuracy of 89%. The second model developed using Support Vector Machines has an accuracy of 91%. It's possible to improve this accuracy with more work. But we need better data that we can use. The quality of the data we had wasn't that great! If we are to go down this path and use this tech we need better data collection and methods to ensure that useful data is collected and recorded during the sale process.
